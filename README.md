@@ -1,0 +1,2 @@
+# redisdemo
+test redis moudle
